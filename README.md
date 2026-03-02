@@ -5,7 +5,9 @@ This repository contains the computational experiments for a Master of Science t
 
 **Attribution and Background**
 
-The data engineering scripts build upon an original repository created by prior researchers. The foundational visualization code aimed to recreate findings from the environmental justice study by Lane and colleagues. This thesis extends that descriptive work into a predictive learning framework using advanced quantum algorithms.
+The data engineering scripts build upon an original repository created by prior researchers. The foundational visualization code aimed to recreate findings from the environmental justice study (Lane, Morello-Frosch, Marshall, & Apte, 2022). The link to the study can be found here: https://pubs.acs.org/doi/10.1021/acs.estlett.1c01012?fig=tgr1&ref=pdf 
+
+This thesis extends that descriptive work into a predictive learning framework using advanced quantum algorithms.
 
 **Repository Structure**
 
