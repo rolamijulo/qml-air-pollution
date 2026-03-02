@@ -19,4 +19,6 @@ The baltimore_qml_kernel.py script executes the spatial classification experimen
 
 **Execution Instructions**
 
-Users must install the Qiskit software framework to simulate the quantum circuits accurately. The pipeline also requires standard data science libraries like Pandas and Scikit learn. Researchers can execute any of the primary experiment files directly from the command line to reproduce the thesis results.
+Users must install the Qiskit software framework to simulate the quantum circuits accurately. The pipeline also requires standard data science libraries like Pandas and Scikit learn. Researchers can execute any of the primary experiment files directly from the command line to reproduce the thesis results. The raw data can be found here: 
+
+https://figshare.com/articles/dataset/Historical_redlining_is_associated_with_present-day_air_pollution_disparities_in_U_S_cities_Associated_datasets/19193243?file=34300682
